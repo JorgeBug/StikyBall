@@ -1,6 +1,9 @@
 # StikyBall 
 Es un proyecto basado en el curso de Game Development with C#.
+
 El juego consite en una pelota que recoge monitores en una habitación con obstaculos incluidos. 
+
+Los Assets son obtenidos de Unity Asset Store: https://assetstore.unity.com/packages/3d/environments/lowpoly-server-room-props-197268
 
 Controles:
 
