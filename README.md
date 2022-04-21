@@ -10,6 +10,6 @@ Controles:
   
   D: Mover la camara hacia la derecha
   
-  A: Mover la camara hacia la Izuierda
+  A: Mover la camara hacia la Izquierda
   
 
