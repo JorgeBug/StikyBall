@@ -12,4 +12,22 @@ Controles:
   
   A: Mover la camara hacia la Izquierda
   
+## Imagen en Primera persona
+  
+![](https://github.com/JorgeBug/StikyBall/blob/main/Primera_Persona.png)
+
+## Gameplay
+  
+![](https://github.com/JorgeBug/StikyBall/blob/main/Gameplay.png)
+
+![](https://github.com/JorgeBug/StikyBall/blob/main/Pelota.png)
+
+## Mapa
+
+![](https://github.com/JorgeBug/StikyBall/blob/main/Cuarto.png)
+
+![](https://github.com/JorgeBug/StikyBall/blob/main/Mapa.png)
+
+
+
 
